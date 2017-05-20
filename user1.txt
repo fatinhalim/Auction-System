@@ -1,0 +1,8 @@
+full name,username,password
+a123,Ahamad,1234
+sina,Sina,1234
+z,zz,12
+dani,dani,1234
+who,dr,123
+newww,neww,1234
+ishrak,ishrak,1234

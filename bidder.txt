@@ -1,0 +1,17 @@
+dani,I2,70.0,japanese
+fatin,I3,19.0,japanese
+karim,I1,20.0,vickrey
+arjav,I4,32.0,vickrey
+lili,I2,50.0,japanese
+ishrak,I3,400.0,japanese
+tt,I4,88.0,vickrey
+tt,I4,72.0,vickrey
+tt,I4,999.0,vickrey
+fatin,I4,99999.0,vickrey
+tt,I2,1999.0,japanese
+low,I4,15000.0,vickrey
+low,I4,30000.0,vickrey
+bestie,I5,1.0,blind
+bestie,I7,100.0,english
+low,I5,99.0,blind
+low,I7,0.0,english
